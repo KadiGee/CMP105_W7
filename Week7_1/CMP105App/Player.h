@@ -3,7 +3,7 @@
 #include "Framework/GameObject.h"
 #include "Enemy.h"
 
-class Player : public GameObject
+class Player: public GameObject
 {
 public:
 	Player();
